@@ -1,0 +1,4 @@
+0,dokoncit ulohu,todo
+1,zjest veceru,done
+4,new new atask,todo
+5,newsest task,todo
